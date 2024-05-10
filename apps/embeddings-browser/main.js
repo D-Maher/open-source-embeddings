@@ -1,4 +1,4 @@
-import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.3.0';
+import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
 
 const input1 = document.getElementById('input1');
 const input2 = document.getElementById('input2');

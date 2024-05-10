@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "ts-node --esm src/index.ts",
+    "dev": "tsx src/index.ts",
     "start": "node dist/index.js",
     "build": "tsc -b"
   },
@@ -11,7 +11,7 @@
     "@xenova/transformers": "^2.2.0"
   },
   "devDependencies": {
-    "ts-node": "^10.9.1",
+    "tsx": "^4.9.3",
     "typescript": "^5.1.3"
   }
 }

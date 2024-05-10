@@ -1,6 +1,6 @@
 # Open Source Embeddings
 
-This is the source code for [$0 Embeddings (OpenAI vs. free & open source)](https://youtu.be/QdDoFfkVkcw).
+This is a fork of the source code for [$0 Embeddings (OpenAI vs. free & open source)](https://youtu.be/QdDoFfkVkcw).
 
 ## Projects
 
